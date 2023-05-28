@@ -6,6 +6,7 @@ This is my vision of how a front-end ( pip-like tool) should work. It is not a r
 
 Current roadmap is in  unstable phase, but represent my current mind map for it.
 
+I plan to support 3.7+ python versions.
 Suggestions are welcome.
 
 
